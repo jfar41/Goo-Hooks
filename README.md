@@ -5,7 +5,7 @@
 # Key Takeaways:
 * The reason we use set function is to prevent rendering and increase the fluid user experience
 * There are state updates happening on three different useSpring instances.
-* useEffect is what's calculating how the mouse is moving but it's UI render is happening each animated.div
+* useEffect is what's calculating how the mouse is moving but its UI render is happening on each animated.div
 
 # Tech Used:
 #### Javascript, HTML, CSS, React
