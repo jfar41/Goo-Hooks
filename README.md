@@ -1,7 +1,6 @@
 # Goo-Hooks
 
-### Goo-Hooks is an interactive web goo that uses react, react-dom, and react-spring. My goal with 
-### this mini-project was to get some hands on experience on working with hooks and animation.
+### Goo-Hooks is an interactive web goo that uses react, react-dom, and react-spring. My goal with this mini-project was to get some hands on experience on working with hooks and animation.
 
 # Key Takeaways:
 * The reason we use set function is to prevent rendering and increase the fluid user experience
