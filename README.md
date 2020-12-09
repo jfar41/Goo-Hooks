@@ -1,3 +1,20 @@
+# Goo-Hooks
+
+### Goo-Hooks is an interactive web goo that uses react, react-dom, and react-spring. My goal with 
+### this mini-project was to get some hands on experience on working with hooks and animation.
+
+# Key Takeaways:
+* The reason we use set function is to prevent rendering and increase the fluid user experience
+* There are state updates happening on three different useSpring instances.
+* useEffect is what's calculating how the mouse is moving but it's UI render is happening each animated.div
+
+# Tech Used:
+#### Javascript, HTML, CSS, React
+## Screenshots
+![Picture of Goo](https://i.imgur.com/3MWLqDi.png)
+![Picture of Goo, again](https://i.imgur.com/u3vKfod.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
